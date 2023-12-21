@@ -11,3 +11,4 @@
 3. Delete Robert Martin's record
 4. Generate a report (scan) in the following format (for all users):
 4.1. last_name, first_name, hobbies
+123
